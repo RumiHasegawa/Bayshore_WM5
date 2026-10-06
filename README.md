@@ -1,4 +1,4 @@
-### Warning: Bayshore WM5  is a TEST VERSION. Not Yet Complete. But it will have to be fixed in the future by PORSZX.
+### Warning: Bayshore WM5 is Complete. But it will have to be fixed in the future by Rumi Hasegawa.
 
 ### THIS PROJECT IS CURRENTLY UNSUPPORTED. DO NOT MESSAGE ANYONE FOR HELP
 
@@ -14,15 +14,13 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
  - Discarded Vehicle Card to Full Tune Ticket 600hp to 830hp
  - Online Champion Match (OCM)
  - Venue Crown (Crown Battle)
- 
- ## What is not working (Some parts must wait to be fixed in the future by Shiroi Kitsu.)
  - Transfer from 4
  - Car Livery , Decal
  - Maxi Coin
  - Ghost Trophies (idk can save)
  - Japan Challenge
  - VS Other Region Ghost (VSORG)
-  
+ 
 ## Credits
 This software is part of [Project Asakura](https://github.com/ProjectAsakura).
 
