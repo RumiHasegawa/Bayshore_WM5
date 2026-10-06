@@ -17,7 +17,7 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
  - Transfer from 4
  - Car Livery , Decal
  - Maxi Coin
- - Ghost Trophies (idk can save)
+ - Ghost Trophies
  - Japan Challenge
  - VS Other Region Ghost (VSORG)
  
