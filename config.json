@@ -1,0 +1,18 @@
+{
+    "placeId": "Indonesia",
+    "shopName": "Jakarta Shuto",
+    "shopNickname": "Jakarta Shuto",
+    "regionId": "18",
+    "country": "IDN",
+    "regionName": "Jakarta Selatan",
+    "serverIp": "26.93.111.107",
+    "notices": ["Welcome to Jakarta Shuto Wangan Midnight Maximum 5 Server", "ENJOY THE GAME"],
+    "gameOptions": {
+        "grantFullTuneTicketToNewUsers": 20, 
+        "giftCarsFullyTuned": 1, 
+        "scratchEnabled": 1, 
+        "scratchType": 2, 
+        "giveMeterReward": 1,
+        "newCardsBanned": 0
+    }
+}
