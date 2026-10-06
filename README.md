@@ -10,7 +10,7 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
 ## What is working
  - Story Mode Chapter 60 + Get BGM and Meter
  - Time Attack 
- - Online Ghost Versus Battle (Code By PORSZX)
+ - Online Ghost Versus Battle (Code By Kei Tendou)
  - Discarded Vehicle Card to Full Tune Ticket 600hp to 830hp
  - Online Champion Match (OCM)
  - Venue Crown (Crown Battle)
